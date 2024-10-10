@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.r7office.sharedFilesTest
+Exec=/usr/bin/ru.r7office.sharedFilesTest
+Name=SharedFiles
+Name[ru]=Общие файлы
+
+[X-Application]
+Permissions=UserDirs
+OrganizationName=ru.r7office
+ApplicationName=sharedFilesTest
+ExecDBus=/usr/bin/ru.r7office.sharedFilesTest
